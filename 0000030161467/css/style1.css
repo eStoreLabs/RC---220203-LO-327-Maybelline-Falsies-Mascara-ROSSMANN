@@ -389,7 +389,7 @@ display: none;
 }
 
 #es-maybelline.es-maybelline .es-background-white {
-  background-image: url(https://www.ros.net.pl/Portals/0/rich-content/maybelline/30161467/img/bg-white.png);
+  background-image: url(https://www.ros.net.pl/Portals/0/rich-content/maybelline/0000030161467/img/bg-white.png);
 }
 
 #es-maybelline.es-maybelline .es-colors {
@@ -749,10 +749,10 @@ display: none;
   padding: 20px 16px;
 }
 #es-maybelline.es-maybelline .es-background {
-  background-image: url(https://www.ros.net.pl/Portals/0/rich-content/maybelline/30161467/img/bg.jpg);
+  background-image: url(https://www.ros.net.pl/Portals/0/rich-content/maybelline/0000030161467/img/bg.jpg);
 }
 
-@media screen and (min-width: 1360px) {
+@media screen and (min-width: 980px) {
   #es-maybelline.es-maybelline .es-kv__info {
     display: block;
     position: absolute;
@@ -822,7 +822,7 @@ display: none;
   }
 }
 
-@media screen and (min-width: 1360px) {
+@media screen and (min-width: 980px) {
   #es-maybelline.es-maybelline .es-kv__subtitle {
     bottom: 32px;
   }
@@ -907,7 +907,7 @@ display: none;
   }
 }
 
-@media screen and (min-width: 1360px) {
+@media screen and (min-width: 980px) {
   #es-maybelline.es-maybelline .es-kv__title {
     font-size: 48px;
   }
